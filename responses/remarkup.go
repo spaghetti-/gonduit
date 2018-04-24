@@ -1,5 +1,5 @@
 package responses
 
-import "github.com/etcinit/gonduit/entities"
+import "github.com/spaghetti-/gonduit/entities"
 
 type RemarkupProcessResponse []*entities.RemarkupDocument

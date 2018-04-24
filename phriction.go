@@ -1,8 +1,8 @@
 package gonduit
 
 import (
-	"github.com/etcinit/gonduit/requests"
-	"github.com/etcinit/gonduit/responses"
+	"github.com/spaghetti-/gonduit/requests"
+	"github.com/spaghetti-/gonduit/responses"
 )
 
 // PhrictionInfo performs a call to phriction.info

@@ -4,7 +4,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/etcinit/gonduit/responses"
+	"github.com/spaghetti-/gonduit/responses"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 )

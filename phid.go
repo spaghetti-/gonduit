@@ -1,9 +1,9 @@
 package gonduit
 
 import (
-	"github.com/etcinit/gonduit/entities"
-	"github.com/etcinit/gonduit/requests"
-	"github.com/etcinit/gonduit/responses"
+	"github.com/spaghetti-/gonduit/entities"
+	"github.com/spaghetti-/gonduit/requests"
+	"github.com/spaghetti-/gonduit/responses"
 )
 
 // PHIDLookup calls the phid.lookup endpoint.

@@ -3,9 +3,9 @@ package gonduit
 import (
 	"testing"
 
-	"github.com/etcinit/gonduit/core"
-	"github.com/etcinit/gonduit/responses"
-	"github.com/etcinit/gonduit/test/server"
+	"github.com/spaghetti-/gonduit/core"
+	"github.com/spaghetti-/gonduit/responses"
+	"github.com/spaghetti-/gonduit/test/server"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 )

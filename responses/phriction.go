@@ -1,6 +1,6 @@
 package responses
 
-import "github.com/etcinit/gonduit/entities"
+import "github.com/spaghetti-/gonduit/entities"
 
 // PhrictionInfoResponse represents response from phriction.info endpoint.
 type PhrictionInfoResponse entities.PhrictionDocument
